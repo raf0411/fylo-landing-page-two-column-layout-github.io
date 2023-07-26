@@ -348,7 +348,7 @@ footer .below-wrapper nav ul li:hover{
 }
 
 @media (min-width: 936px){
-  main .content-1 img, main .content-2 img{
+  main .content-1 .illustration-1, main .content-2 .illustration-2{
     order: 2;
   }
 }
