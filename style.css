@@ -343,6 +343,10 @@ footer .below-wrapper nav ul li:hover{
   opacity: 0.5;
 }
 
+.footer-credit{
+  align-items: center;
+}
+
 @media (min-width: 936px){
   main .content-1 img, main .content-2 img{
     order: 2;
